@@ -1,8 +1,8 @@
 # pushit
 
-<iframe src="https://giphy.com/embed/As0sopKG8lot2" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pushing-As0sopKG8lot2">via GIPHY</a></p>
+[Push It Real Good](https://media.giphy.com/media/As0sopKG8lot2/giphy-downsized-large.gif)
 
-#### ***"One CMD to push them all"***
+#### ***Push It Real Good***
 Keep your localhost codebases up-to-date (and backed-up) across devices with daily automated pushes. Or use as an auto-pushing tool.
 
 
