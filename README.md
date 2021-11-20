@@ -1,6 +1,6 @@
 # pushit
 
-[Push It Real Good](https://c.tenor.com/PzGKGLb54G8AAAAd/salt-n-pepa-push-it-real-good.gif)
+![Push It Real Good](https://c.tenor.com/PzGKGLb54G8AAAAd/salt-n-pepa-push-it-real-good.gif)
 
 #### ***Push It Real Good***
 Keep your localhost codebases up-to-date (and backed-up) across devices with daily automated pushes. Or use as an auto-pushing tool.
